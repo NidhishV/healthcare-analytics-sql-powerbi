@@ -1,5 +1,5 @@
 # Healthcare Analytics & Decision Support Dashboard  
-
+[![home.png](https://i.postimg.cc/qqwXCzQ5/home.png)](https://postimg.cc/9w4q6X6d) 
 ## Introduction  
 Healthcare institutions generate large volumes of data across patient care, operations, and finances. Often, this data is siloed and underutilized, limiting its value in decision-making.  
 
