@@ -91,8 +91,10 @@ Below are the dashboards included in this project. Each section includes a scree
 
 ---
 
-## Repository Structure  
-
+## Documentation  
+- [Business Requirements Document (BRD)](docs/BRD.pdf)  
+- [Functional Requirements Document (FRD)](docs/FRD.pdf)  
+- [Executive Summary](docs/Executive_Summary.pdf)
 
 ---
 
