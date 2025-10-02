@@ -114,6 +114,4 @@ Below are the dashboards included in this project. Each section includes a scree
 
 ---
 
-## Contributor  
-- **Nidhish Vandekar** – Project Developer & Analyst  
-
+> This project demonstrates the integration of hospital data into interactive dashboards for improved operational efficiency and informed decision-making.
