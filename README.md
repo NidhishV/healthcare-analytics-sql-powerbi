@@ -21,10 +21,11 @@ The **Healthcare Analytics & Decision Support Dashboard** integrates patient, cl
 - **Visualization**: Power BI  
 - **Languages/Tools**: SQL, DAX, Excel  
 - **Repository Organization**:  
-  - `/data` → Datasets (CSV/Excel)  
-  - `/sql` → Queries and schema  
-  - `/dashboard` → Power BI `.pbix` file + screenshots  
-  - `/docs` → Executive Summary, BRD, FRD, DRD  
+  - `/data` → Datasets (CSV files)  
+  - `/scripts` → Sql Queries  
+  - `/dashboard` → Power BI `.pbix` file
+  - `/images` → dashboard screenshots  
+  - `/docs` → Executive Summary, BRD & FRD
 
 ---
 
